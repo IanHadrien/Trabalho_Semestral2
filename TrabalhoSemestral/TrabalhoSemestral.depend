@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1638845603 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\heapsort.c
+	"HeapSort.h"
+
+1638639083 c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\heapsort.h
+
+1638639737 c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\dados.h
+	<stdio.h>
+	"Dados.h"
+
+1638845109 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bolha.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"Dados.h"
+	"Interface.h"
+
+1638639778 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\dados.c
+	"Dados.h"
+
+1638741828 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\interface.c
+	<locale.h>
+	"Interface.h"
+
+1638734085 c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1638845025 c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\quicksort.h
+	"HeapSort.h"
+
+1638845220 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\quicksort.c
+	"QuickSort.h"
+	"HeapSort.h"
+
+1638842464 c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\bolha.h
+	"HeapSort.h"
+
+1638845156 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos c\trabalhosemestral\bolha.c
+	"Bolha.h"
+	"Interface.h"
+
